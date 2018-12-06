@@ -4,7 +4,7 @@ scm is a self-host web-app for managing bash scripts' execution time, currently 
 
 #### TO-DO:
 
-* UPDATE & INSERT (api/get.php)
+* ~~UPDATE & INSERT (api/get.php)~~
 * UPDATE check loop
 * BASH curl code generator (panel.php)
 * Mail notification (maybe SMS?)
